@@ -1,6 +1,6 @@
 # Fase 1 · Núcleo de datos
 
-**Alumno/a:**Agustín Muñoz Gomez
+**Alumno/a:** Agustín Muñoz Gomez
 **Dominio:** biblioteca de aula 
 
 ## Cómo se abre
